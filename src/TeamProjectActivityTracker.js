@@ -11,17 +11,18 @@ const ProjectTimeline = () => {
 
   useEffect(() => {
     const fetchProjects = async () => {
-      try {
-        const response = await fetch('/projects.json');
-        if (!response.ok) {
-          throw new Error(`Failed to fetch JSON file: ${response.statusText}`);
+        try {
+          const baseUrl = process.env.PUBLIC_URL || '';
+          const response = await fetch(`${baseUrl}/projects.json`);
+          if (!response.ok) {
+            throw new Error(`Failed to fetch JSON file: ${response.statusText}`);
+          }
+          const jsonData = await response.json();
+          setTeamMembers(jsonData);
+        } catch (error) {
+          console.error('Error fetching JSON:', error);
         }
-        const jsonData = await response.json();
-        setTeamMembers(jsonData);
-      } catch (error) {
-        console.error('Error fetching JSON:', error);
-      }
-    };
+      };
 
     fetchProjects();
   }, []);
