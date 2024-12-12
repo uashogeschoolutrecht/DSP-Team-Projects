@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Rins Rutgers",
+    "role": "Dev Ops / AI Engineer",
+    "githubUsername": "rinsrutgers",
+    "avatarUrl": "/img/profile-pictures/rins.jpeg",
+    "projects": [
+      {
+        "name": "Product Owner",
+        "startDate": "2024-01-01",
+        "endDate": "2025-12-31",
+        "color": "#F4A261",
+        "workdays": ["Wednesday", "Thursday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "Ethos",
+        "startDate": "2024-11-25",
+        "endDate": "2025-03-01",
+        "color": "#E76F51",
+        "workdays": ["Monday", "Tuesday"],
+        "hoursPerDay": 10
+      },
+      {
+        "name": "Days Off",
+        "startDate": "2024-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Friday"]
+      }
+    ]
+  },
+  {
+    "name": "Anton Ras",
+    "role": "Data Engineer",
+    "githubUsername": "AntonMariusRas",
+    "avatarUrl": "/img/profile-pictures/anton.jpeg",
+    "projects": [
+      {
+        "name": "Map IT",
+        "startDate": "2024-11-01",
+        "endDate": "2025-03-31",
+        "color": "#2A9D8F",
+        "workdays": ["Monday", "Tuesday"],
+        "hoursPerDay": 8
+      }
+    ]
+  },
+  {
+    "name": "Bouba Ismalia",
+    "role": "Data Scientist",
+    "githubUsername": "boubaismalia",
+    "avatarUrl": "/img/profile-pictures/bouba.jpeg",
+    "projects": [
+      {
+        "name": "Student Dropout Prediction",
+        "startDate": "2024-10-01",
+        "endDate": "2025-04-01",
+        "color": "#264653",
+        "workdays": ["Monday", "Tuesday", "Wednesday"],
+        "hoursPerDay": 10
+      }
+    ]
+  },
+  {
+    "name": "Richard Felius",
+    "role": "Data Scientist",
+    "githubUsername": "RichardFel",
+    "avatarUrl": "/img/profile-pictures/richard.jpeg",
+    "projects": [
+      {
+        "name": "GRIP",
+        "startDate": "2024-06-01",
+        "endDate": "2025-12-31",
+        "color": "#8AB17D",
+        "workdays": ["Tuesday", "Wednesday"],
+        "hoursPerDay": 10
+      },
+      {
+        "name": "Days Off",
+        "startDate": "2024-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Monday", "Thursday", "Friday"]
+      }
+    ]
+  },
+  {
+    "name": "Fabian Kok",
+    "role": "AI Engineer / Advisor",
+    "githubUsername": "boubaismalia",
+    "avatarUrl": "/img/profile-pictures/fabian.jpeg",
+    "projects": [
+      {
+        "name": "RAAIT",
+        "startDate": "2024-01-01",
+        "endDate": "2024-12-31",
+        "color": "#E9C46A",
+        "workdays": ["Monday", "Tuesday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "E * STAR",
+        "startDate": "2024-01-01",
+        "endDate": "2024-12-31",
+        "color": "#F4A261",
+        "workdays": ["Wednesday"],
+        "hoursPerDay": 10
+      },
+      {
+        "name": "Days Off",
+        "startDate": "2024-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Friday"]
+      }
+    ]
+  }
+]

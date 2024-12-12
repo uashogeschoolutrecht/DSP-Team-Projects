@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 15% 83%; /* Profile takes 30%, Timeline takes 70% */
+  gap: 10px; /* Space between columns */
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.profile-column {
+  display: flex;
+  margin-left: 10px; /* Space between columns */
+  justify-content: center;
+}
+
+.timeline-column {
+  overflow-x: auto; /* Enable horizontal scrolling if needed */
+}
+
+.grid-container {
+  margin-bottom: 2rem; /* Adjust the spacing as needed */
+}
