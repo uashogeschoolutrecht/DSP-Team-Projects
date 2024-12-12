@@ -98,7 +98,7 @@ const ProjectTimeline = () => {
   return (
     <div className="p-4 bg-white rounded-lg shadow-md relative">
       <div className="flex items-center mb-4">
-        <h2 className="text-xl font-bold mr-4">Data Science Pool Project Timeline</h2>
+        <h2 className="text-xl font-bold mr-4">Data Science Pool Projects Per Person</h2>
         <div className="relative">
           <select
             value={selectedYear}
