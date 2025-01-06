@@ -115,5 +115,27 @@
         "workdays": ["Friday"]
       }
     ]
+  },{
+    "name": "Fraukje Coopmans",
+    "role": "Data Scientist",
+    "githubUsername": "Fraukje",
+    "avatarUrl": "/img/profile-pictures/fraukje.jpeg",
+    "projects": [
+      {
+        "name": "Dat Smaakt Naar Meer",
+        "startDate": "2025-01-01",
+        "endDate": "2025-01-31",
+        "color": "#F4A261",
+        "workdays": ["Monday", "Friday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "Days Off",
+        "startDate": "2025-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Tuesday"]
+      }
+    ]
   }
 ]
