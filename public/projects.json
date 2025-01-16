@@ -18,15 +18,23 @@
         "startDate": "2024-11-25",
         "endDate": "2025-03-01",
         "color": "#E76F51",
-        "workdays": ["Monday", "Tuesday"],
+        "workdays": ["Friday", "Tuesday"],
+        "hoursPerDay": 10
+      },
+      {
+        "name": "VHP4Safety",
+        "startDate": "2025-03-01",
+        "endDate": "2025-05-01",
+        "color": "#E76F51",
+        "workdays": ["Friday", "Tuesday"],
         "hoursPerDay": 10
       },
       {
         "name": "Days Off",
         "startDate": "2024-01-01",
-        "endDate": "2025-12-31",
+        "endDate": "2024-12-31",
         "color": "#D1D5DB",
-        "workdays": ["Friday"]
+        "workdays": ["Monday"]
       }
     ]
   },
