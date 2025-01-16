@@ -25,7 +25,7 @@
         "name": "VHP4Safety",
         "startDate": "2025-03-01",
         "endDate": "2025-05-01",
-        "color": "#E76F51",
+        "color": "#2A9D8F",
         "workdays": ["Friday", "Tuesday"],
         "hoursPerDay": 10
       },
