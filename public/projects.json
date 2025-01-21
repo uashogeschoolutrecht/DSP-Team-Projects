@@ -49,6 +49,14 @@
         "startDate": "2024-11-01",
         "endDate": "2025-03-31",
         "color": "#2A9D8F",
+        "workdays": ["Wednesday", "Thursday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "Helping other team members",
+        "startDate": "2024-04-01",
+        "endDate": "2025-12-31",
+        "color": "#063970",
         "workdays": ["Monday", "Tuesday"],
         "hoursPerDay": 8
       }
