@@ -135,10 +135,54 @@
     "name": "Fraukje Coopmans",
     "role": "Data Scientist",
     "githubUsername": "Fraukje",
-    "avatarUrl": "/img/profile-pictures/fraukje.jpg",
+    "avatarUrl": "/img/profile-pictures/fraukje.jpeg",
     "projects": [
       {
         "name": "Dat Smaakt Naar Meer",
+        "startDate": "2025-01-01",
+        "endDate": "2025-01-31",
+        "color": "#F4A261",
+        "workdays": ["Monday", "Friday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "Days Off",
+        "startDate": "2025-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Tuesday"]
+      }
+    ]
+  },{
+    "name": "Anne Leemans",
+    "role": "Data Scientist",
+    "githubUsername": "#",
+    "avatarUrl": "/img/profile-pictures/anne.jpeg",
+    "projects": [
+      {
+        "name": "Project X",
+        "startDate": "2025-01-01",
+        "endDate": "2025-01-31",
+        "color": "#F4A261",
+        "workdays": ["Monday", "Friday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "Days Off",
+        "startDate": "2025-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Tuesday"]
+      }
+    ]
+  },{
+    "name": "Jeroen Stravers",
+    "role": "Data Scientist",
+    "githubUsername": "#",
+    "avatarUrl": "/img/profile-pictures/jeroen.jpeg",
+    "projects": [
+      {
+        "name": "Project Y",
         "startDate": "2025-01-01",
         "endDate": "2025-01-31",
         "color": "#F4A261",
