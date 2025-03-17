@@ -140,9 +140,17 @@
       {
         "name": "Dat Smaakt Naar Meer",
         "startDate": "2025-01-01",
-        "endDate": "2025-01-31",
+        "endDate": "2025-05-31",
         "color": "#F4A261",
-        "workdays": ["Monday", "Friday"],
+        "workdays": ["Monday"],
+        "hoursPerDay": 8
+      },
+      {
+        "name": "Ethos",
+        "startDate": "2025-02-01",
+        "endDate": "2025-05-31",
+        "color": "#E76F51",
+        "workdays": ["Friday"],
         "hoursPerDay": 8
       },
       {
@@ -151,6 +159,13 @@
         "endDate": "2025-12-31",
         "color": "#D1D5DB",
         "workdays": ["Tuesday"]
+      },
+      {
+        "name": "Data & Analytics advisor",
+        "startDate": "2025-01-01",
+        "endDate": "2025-12-31",
+        "color": "#D1D5DB",
+        "workdays": ["Wednesday", "Thursday"]
       }
     ]
   },{
